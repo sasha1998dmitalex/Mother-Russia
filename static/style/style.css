@@ -1,0 +1,45 @@
+.header-map {
+    position: relative;
+    text-align: center;
+}
+
+.main-map {
+    min-width: 1200px;
+}
+
+
+
+.map-list .city {
+    color: lightblue;
+    text-decoration: none;
+}
+
+.map-points .point {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: lightblue;
+    top: 0;
+    left: 0;
+}
+
+.map-points .moscow {
+    top: 208px;
+    left: 270px;
+}
+
+.map-points .cheb {
+    top: 252px;
+    left: 315px;
+}
+
+.map-points .belgorod {
+    top: 249px;
+    left: 224px
+}
+
+.map-points .vladivostok {
+    top: 452px;
+    left: 917px;
+}
